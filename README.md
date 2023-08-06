@@ -22,3 +22,8 @@ I would like to include that the most frequent 1000 Spanish words used in this p
 ## Let's Get Started!
 
 Learning Spanish has never been more enjoyable! Embark on this language-learning adventure with our interactive flash-cards and broaden your linguistic horizons. Happy learning!
+
+## Preview
+![Screenshot (209)](https://github.com/AdeyemiEmmanuel/Flash-Card/assets/98936329/661e9ddf-7066-44a7-a7c4-1f04d8721959)
+![Screenshot (210)](https://github.com/AdeyemiEmmanuel/Flash-Card/assets/98936329/838a41ad-a032-43ef-b5f0-6b4616c08465)
+
